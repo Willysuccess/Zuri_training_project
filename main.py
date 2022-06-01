@@ -14,8 +14,3 @@ elif user not in mylist:
     print("Error. Try again later")
 elif computer != user:
     print("You're the winner")
-
-
-
-
-
